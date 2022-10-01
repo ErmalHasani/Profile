@@ -7,7 +7,7 @@ A passionate frontend developer from Kosovo
 
 * 🌍  I'm based in Kosovo
 * 🖥️  See my portfolio at [ermal.is-a.dev](http://ermal.is-a.dev)
-* ✉️  You can contact me at [ermalhasani15@gmail.vom](mailto:ermalhasani15@gmail.vom)
+* ✉️  You can contact me at [info@ermal.is-a.dev](mailto:info@ermal.is-a.dev)
 * 🔭  I'm learning im working in my website
 * ⚡  while (no success) { try again; if(dead) break; }
 
