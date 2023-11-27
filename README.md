@@ -1,4 +1,4 @@
-[LOGO](https://github.com/ErmalHasani/ErmalHasani/blob/main/1.png)
+![LOGO](https://github.com/ErmalHasani/ErmalHasani/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Ermal Hasani</h1>
 <h3 align="center">A passionate frontend & backend developer from Kosovo.</h3>
 
