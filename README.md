@@ -1,9 +1,7 @@
 ![LOGO](https://github.com/ErmalHasani/ErmalHasani/blob/main/1.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ermal Hasani
 ====================================================================================================================================
-<h3 align="center">A passionate Software Engineer from Kosovo.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ermalhasani&label=Profile%20views&color=0e75b6&style=flat" alt="ermalhasani" /> </p>
+My name is Ermal, A passionate Software Engineer from Kosovo with 3+ years of experience.
 
 * 🌍  I'm based in Kosovo.
 * 🖥️  See my portfolio at [ermal.is-a.dev](http://ermal.is-a.dev)
@@ -12,6 +10,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Golang.
 * ⚡  I have a keen interest in cybersecurity.
 * ⚡  while (no success) { try again; if(dead) break; }
+
+====================================================================================================================================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ermalhasani&label=Profile%20views&color=0e75b6&style=flat" alt="ermalhasani" /> </p>
 
 <a href="https://www.github.com/ErmalHasani" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ErmalHasani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
