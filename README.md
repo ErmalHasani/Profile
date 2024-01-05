@@ -6,7 +6,6 @@ My name is Ermal, A passionate Software Engineer from Kosovo with 3+ years of ex
 * 🌍  I'm based in Kosovo.
 * 🖥️  See my portfolio at [ermal.is-a.dev](http://ermal.is-a.dev)
 * ✉️  You can contact me at [info@ermal.is-a.dev](mailto:info@ermal.is-a.dev)
-* 🚀  I'm currently working on [Alpha Company.]
 * 🧠  I'm learning Golang.
 * ⚡  I have a keen interest in cybersecurity.
 * ⚡  while (no success) { try again; if(dead) break; }
