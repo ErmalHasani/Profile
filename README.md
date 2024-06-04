@@ -1,4 +1,4 @@
-![LOGO](https://github.com/ErmalHasani/ErmalHasani/blob/main/github-header-image.png.png)
+![LOGO](https://github.com/ErmalHasani/ErmalHasani/blob/main/github-header-image.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ermal Hasani
 ====================================================================================================================================
 My name is Ermal, A passionate Software Engineer from Kosovo with 3+ years of experience.
