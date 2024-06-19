@@ -9,8 +9,6 @@ My name is Ermal, A passionate Software Engineer from Kosovo with 3+ years of ex
 * ⚡  I have a keen interest in cybersecurity.
 * ⚡  while (no success) { try again; if(dead) break; }
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ermalhasani&label=Profile%20views&color=0e75b6&style=flat" alt="ermalhasani" /> <a href="https://www.github.com/ErmalHasani" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ErmalHasani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> </p>
-</p>
 
   
 ====================================================================================================================================
