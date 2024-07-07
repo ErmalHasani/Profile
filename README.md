@@ -3,11 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Ermal, A passionate Software Engineer from Kosovo with 3+ years of experience.
 
 * 🌍  I'm based in Kosovo.
-* 🖥️  See my portfolio at [ermal.is-a.dev](http://ermal.is-a.dev)
-* ✉️  You can contact me at [info@ermal.is-a.dev](mailto:info@ermal.is-a.dev)
 * 🧠  I'm learning Golang.
 * ⚡  I have a keen interest in cybersecurity.
-* ⚡  while (no success) { try again; if(dead) break; }
 
 
   
